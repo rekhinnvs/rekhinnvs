@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi
+- 🔭 I’m currently working on REST API automation
+- 🌱 I’m currently learning web automation
 
 <!--
 **rekhinnvs/rekhinnvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
