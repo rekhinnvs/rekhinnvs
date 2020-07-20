@@ -1,5 +1,5 @@
 ### Hi
-- 🔭 I’m currently working on REST API automation
+- 🔭 I’m currently working on REST API automation using RESTAssured
 - 🌱 Learning web automation
 
 <!--
