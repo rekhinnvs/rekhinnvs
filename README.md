@@ -1,6 +1,11 @@
-### Hi
+### Hi, 
+### I'm Rekhin, an Android/Web QA Engineer.
+
 - 🔭 I’m currently working on REST API automation using RESTAssured
 - 🌱 Learning web automation
+
+### ⚡ Want to hire me for a role or project?
+
 
 <!--
 **rekhinnvs/rekhinnvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
