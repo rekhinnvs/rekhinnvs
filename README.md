@@ -11,6 +11,8 @@ Reach me on <a href="https://twitter.com/intent/tweet?screen_name=rekhinnvs&ref_
 
 <a href="https://twitter.com/intent/tweet?screen_name=rekhinnvs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-lang="en" data-show-count="false">Tweet to @rekhinnvs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![Twitter Badge](https://img.shields.io/badge/-rekhin-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/rekhinnvs/)](https://twitter.com/rekhinnvs/)
+
 <!--
 **rekhinnvs/rekhinnvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
