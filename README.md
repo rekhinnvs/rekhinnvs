@@ -7,11 +7,10 @@
 ##### ⚡ Want to hire me?
 * [Get the Resume](https://github.com/rekhinnvs/rekhinnvs/blob/master/CV_Rekhin_NV_2020.pdf)
 
-Reach me on <a href="https://twitter.com/intent/tweet?screen_name=rekhinnvs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @rekhinnvs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/intent/tweet?screen_name=rekhinnvs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-lang="en" data-show-count="false">Tweet to @rekhinnvs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+##### ⚡ Connect with me here,
 [![Twitter Badge](https://img.shields.io/badge/-rekhin-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/rekhinnvs/)](https://twitter.com/rekhinnvs/)
+[![Linkedin Badge](https://img.shields.io/badge/-rekhin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rekhinnvs/)](https://www.linkedin.com/in/rekhinnvs/)
+[![Gmail Badge](https://img.shields.io/badge/-rekhinnvs@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
 
 <!--
 **rekhinnvs/rekhinnvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
