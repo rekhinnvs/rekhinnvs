@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on REST API automation using RESTAssured
 - 🌱 Learning web automation
 
-## ⚡ Want to hire me for a role or project?
+##### ⚡ Want to hire me?
+* [Get the Resume](https://github.com/rekhinnvs/rekhinnvs/blob/master/CV_Rekhin_NV_2020.pdf)
 
 
 <!--
