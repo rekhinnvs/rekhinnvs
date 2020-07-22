@@ -10,7 +10,7 @@
 ##### ⚡ Connect with me here,
 [![Twitter Badge](https://img.shields.io/badge/-rekhin-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/rekhinnvs/)](https://twitter.com/rekhinnvs/)
 [![Linkedin Badge](https://img.shields.io/badge/-rekhin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rekhinnvs/)](https://www.linkedin.com/in/rekhinnvs/)
-[![Gmail Badge](https://img.shields.io/badge/-rekhinnvs@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
+[![Gmail Badge](https://img.shields.io/badge/-rekhinnvs@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:rekhin.nvs@gmail.com)](mailto:rekhin.nvs@gmail.com)
 
 <!--
 **rekhinnvs/rekhinnvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
