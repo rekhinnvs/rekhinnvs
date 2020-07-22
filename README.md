@@ -8,6 +8,9 @@
 * [Get the Resume](https://github.com/rekhinnvs/rekhinnvs/blob/master/CV_Rekhin_NV_2020.pdf)
 
 Reach me on <a href="https://twitter.com/intent/tweet?screen_name=rekhinnvs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @rekhinnvs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a href="https://twitter.com/intent/tweet?screen_name=rekhinnvs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-lang="en" data-show-count="false">Tweet to @rekhinnvs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!--
 **rekhinnvs/rekhinnvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
