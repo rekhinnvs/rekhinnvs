@@ -1,13 +1,10 @@
 ### Hi, 
 ### I'm Rekhin, an Android/Web QA Engineer.
-
 - 🔭 I’m currently working on REST API automation using RESTAssured
 - 🌱 Learning web automation
-
 ##### ⚡ Want to hire me?
 * [Get the Resume](https://github.com/rekhinnvs/rekhinnvs/blob/master/CV_Rekhin_NV_2020.pdf)
-
-##### ⚡ Connect with me here,
+##### ⚡ Connect with me,
 - [![Twitter Badge](https://img.shields.io/badge/-rekhinnvs-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/rekhinnvs/)](https://twitter.com/rekhinnvs/)
 [![Linkedin Badge](https://img.shields.io/badge/-rekhinnvs-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rekhinnvs/)](https://www.linkedin.com/in/rekhinnvs/)
 [![Gmail Badge](https://img.shields.io/badge/-rekhinnvs-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:rekhin.nvs@gmail.com)](mailto:rekhin.nvs@gmail.com)
