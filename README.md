@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on REST API automation using RESTAssured
 - 🌱 Learning web automation
 ##### ⚡ Want to hire me?
-* [Get the Resume](https://github.com/rekhinnvs/rekhinnvs/blob/master/CV_Rekhin_NV_2020.pdf)
+* [Get the Resume](https://github.com/rekhinnvs/rekhinnvs/blob/master/Rekhin.pdf)
 ##### ⚡ Connect with me,
 - [![Twitter Badge](https://img.shields.io/badge/-rekhinnvs-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/rekhinnvs/)](https://twitter.com/rekhinnvs/)
 [![Linkedin Badge](https://img.shields.io/badge/-rekhinnvs-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rekhinnvs/)](https://www.linkedin.com/in/rekhinnvs/)
