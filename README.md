@@ -2,7 +2,7 @@
 ### I'm Rekhin, an Android/Web QA Engineer.
 - 🔭 I’m currently working on REST API automation using RESTAssured
 - 🌱 Learning web automation
-- 🔭 A student at Conestoga college.
+- 🔭 Software QA Engineer at CieNet Technologies.
 ##### ⚡ Want to hire me?
 * [Get the Resume](https://github.com/rekhinnvs/rekhinnvs/blob/master/Rekhin.pdf)
 ##### ⚡ Connect with me,
